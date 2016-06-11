@@ -1,0 +1,4 @@
+highlights:
+  listen: 0.0.0.0:6379
+  redis: true
+  servers: # todo
